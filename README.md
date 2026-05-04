@@ -24,12 +24,15 @@ I also have systems-level experience from building an **out-of-order RISC-V proc
     <td width="50%">
       <h3>InboxPilot</h3>
       <p>
-        AI-powered email triage and reply assistant with Gmail OAuth, encrypted token storage,
-        Supabase/PostgreSQL persistence, and OpenAI-assisted reply workflows.
+        AI-powered email triage and reply assistant with Gmail API integration, Google Cloud OAuth,
+        encrypted token storage, Supabase/PostgreSQL persistence, and OpenAI-assisted reply workflows.
       </p>
       <p>
-        <strong>Tech:</strong><br/>
-        <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>OAuth</code> <code>OpenAI</code>
+        <strong>Tech Stack:</strong><br/>
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+        <code>Supabase</code> <code>PostgreSQL</code> <code>OpenAI Responses API</code>
+        <code>Gmail API</code> <code>Google Cloud OAuth</code> <code>Vercel</code>
+        <code>Vitest</code> <code>Zod</code>
       </p>
       <p>
         <a href="https://inboxpilot-sa.vercel.app/">Live Demo</a>
@@ -39,11 +42,13 @@ I also have systems-level experience from building an **out-of-order RISC-V proc
       <h3>Calora</h3>
       <p>
         AI nutrition and meal planning app with ingredient analysis, meal generation,
-        macro tracking, saved meals, and Supabase/PostgreSQL persistence.
+        macro tracking, saved meals, Supabase Auth, and PostgreSQL persistence.
       </p>
       <p>
-        <strong>Tech:</strong><br/>
-        <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Vercel</code> <code>AI APIs</code>
+        <strong>Tech Stack:</strong><br/>
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+        <code>Supabase Auth</code> <code>PostgreSQL</code> <code>OpenAI API</code>
+        <code>USDA FoodData Central API</code> <code>Vercel</code> <code>GitHub Actions</code>
       </p>
       <p>
         <a href="https://calora-sa.vercel.app/">Live Demo</a>
@@ -59,10 +64,8 @@ I also have systems-level experience from building an **out-of-order RISC-V proc
         prefetching, and post-commit store buffering.
       </p>
       <p>
-        <strong>Tech:</strong><br/>
+        <strong>Tech Stack:</strong><br/>
         <code>SystemVerilog</code> <code>RISC-V</code> <code>Computer Architecture</code>
-      </p>
-      <p>
       </p>
     </td>
     <td width="50%">
@@ -71,11 +74,9 @@ I also have systems-level experience from building an **out-of-order RISC-V proc
         Unix-like x86 operating system kernel in C and assembly with paging,
         interrupts, syscalls, filesystem support, terminal I/O, and user program loading.
       </p>
-      <p>repo
-        <strong>Tech:</strong><br/>
-        <code>C</code> <code>x86 Assembly</code> <code>Operating Systems</code>
-      </p>
       <p>
+        <strong>Tech Stack:</strong><br/>
+        <code>C</code> <code>x86 Assembly</code> <code>Operating Systems</code> <code>Linux</code>
       </p>
     </td>
   </tr>
@@ -84,17 +85,27 @@ I also have systems-level experience from building an **out-of-order RISC-V proc
 ## Technical Focus
 
 **Backend / Cloud:**  
-`API design` `Authentication` `OAuth` `PostgreSQL` `Supabase` `Server-side workflows` `Vercel deployments`
+`API design` `Authentication` `OAuth` `Google Cloud OAuth` `PostgreSQL` `Supabase` `Server-side workflows` `Vercel deployments` `Cloudflare DNS` `Docker` `Linux`
 
 **AI Applications:**  
-`OpenAI API` `Structured AI outputs` `AI-assisted workflows` `Prompt-to-product integration`
+`OpenAI API` `OpenAI Responses API` `Structured AI outputs` `AI-assisted workflows` `Prompt-to-product integration`
 
 **Systems:**  
 `C` `C++` `SystemVerilog` `RISC-V` `x86 Assembly` `Operating systems` `Computer architecture`
 
 ## Tools and Technologies
 
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Supabase` `PostgreSQL` `OpenAI API` `GitHub Actions` `Vercel` `Python` `C` `C++` `SystemVerilog`
+**Languages:**  
+`TypeScript` `JavaScript` `Python` `Java` `C` `C++` `SQL` `SystemVerilog` `Haskell`
+
+**Frameworks / Libraries:**  
+`React` `Next.js` `Tailwind CSS` `SQLAlchemy` `NumPy` `REST APIs`
+
+**Cloud / Platforms:**  
+`Supabase` `PostgreSQL` `Vercel` `Google Cloud OAuth` `Cloudflare DNS` `Docker` `Linux`
+
+**Tools / APIs:**  
+`Git` `GitHub Actions` `OpenAI API` `OpenAI Responses API` `Gmail API` `USDA FoodData Central API` `Vitest` `Zod` `Vivado`
 
 ## Currently Looking For
 
